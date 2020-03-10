@@ -14,15 +14,15 @@ She typed a random string of length (n) in the password field but wasn't sure if
 
 Note: Here's the set of types of characters in a form you can paste in your solution:
 
-    -numbers = "0123456789"
-    -lower_case = "abcdefghijklmnopqrstuvwxyz"
-    -upper_case = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
-    -special_characters = "!@#$%^&*()-+"
+    numbers = "0123456789"
+    lower_case = "abcdefghijklmnopqrstuvwxyz"
+    upper_case = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+    special_characters = "!@#$%^&*()-+"
     
     
 2-Input Format:
     
-    Directly input your password.
+Directly input your password.
     
 3-Output Format
 
